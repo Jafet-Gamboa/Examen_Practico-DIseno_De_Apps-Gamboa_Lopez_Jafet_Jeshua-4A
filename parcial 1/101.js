@@ -5,7 +5,6 @@ Alumno: Gamboa Lopez Jafet Jeshua
 Grupo: 4A
 Cuatrimestre: 4
 Fecha: 05/02/2024
-prueba
 */
 
 const url = "https://jsonplaceholder.typicode.com/todos";
